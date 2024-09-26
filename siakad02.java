@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Kafe02 {
+public class siakad02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -33,9 +33,6 @@ public class Kafe02 {
                 }
             
                 double totalHarga = hargaMenu * jumlah;
-
-
-        
         
         switch (ukuranCup) {
             case 's':
